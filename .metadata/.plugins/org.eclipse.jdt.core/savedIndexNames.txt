@@ -1,0 +1,15 @@
+INDEX VERSION 1.131+C:\Users\verizon\Documents\PK\Middleware\Microservices\.metadata\.plugins\org.eclipse.jdt.core
+3712399803.index
+3309331271.index
+645263135.index
+2679183589.index
+385649523.index
+2979618446.index
+447578284.index
+2865786040.index
+522339376.index
+335211976.index
+3027302241.index
+1900345730.index
+3258503520.index
+747889585.index
